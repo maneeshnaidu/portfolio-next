@@ -177,6 +177,7 @@ export const skillsData = [
   "Django",
   "AWS",
   "Azure",
+  "Agile",
   "SCRUM",
   "npm",
   "JQuery",

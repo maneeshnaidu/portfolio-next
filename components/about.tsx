@@ -28,8 +28,8 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          C#, .NET, .NET Core, React.js and SQL Server or 
-          SAP S/4 HANA, ABAP, SAPUI5, OData, CDS, Node.js, SAP BTP and cloud technologies AWS or AZURE
+          C#, .NET, .NET Core, React.js and SQL Server and 
+          SAP S/4 HANA, ABAP, SAPUI5, OData, CDS, Node.js, SAP BTP and cloud technologies AWS and AZURE
         </span>
         . I am also familiar with TypeScript, Python, Django, FastAPI, Postgres and MySQL. I am always looking to
         learn new technologies. I am currently looking for a{" "}
