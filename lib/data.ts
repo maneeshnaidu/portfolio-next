@@ -37,11 +37,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Technical Consultant",
+    company: "Thomax Technology NZ Ltd",
+    location: "Auckland, NZ",
+    description:
+      "Developed and implement technical specifications including setting up, configuration, testing and deployment of WMS. Understand functional specifications and contribute to project documentation such as Solutions Design, Standard Operating Procedures, test cases.",
+    icon: React.createElement(SiSap),
+    date: "08/2021 - present",
+  },
+  {
     title: "Technical Consultant/ Full-Stack Developer",
     company: "invenioLSI",
     location: "Suva, FJ",
     description:
-      "I work as a SAP Full Stack Developer with expertise in S/4 HANA, SAPUI5, ABAP, Webdynpro, OData, BRF+, SAP BTP, and Node.js as a versatile professional who bridges the gap between user interfaces and server-side logic. I design, develop, and maintain fully-fledged SAP systems, ensuring seamless functionality and robust applications.",
+      "I worked as a SAP Full Stack Developer with expertise in S/4 HANA, SAPUI5, ABAP, Webdynpro, OData, BRF+, SAP BTP, and Node.js as a versatile professional who bridges the gap between user interfaces and server-side logic. I design, develop, and maintain fully-fledged SAP systems, ensuring seamless functionality and robust applications.",
     icon: React.createElement(SiSap),
     date: "08/2021 - present",
   },
@@ -71,15 +80,6 @@ export const experiencesData = [
       "I worked as a full-stack developer crafting web applications using C#, .Net core, MVC, Web API, SQL Server and ReactJS hosted on AWS cloud.",
     icon: React.createElement(SiDotnet),
     date: "01/2020 - 03/2020",
-  },
-  {
-    title: "Software Developer",
-    company: "QIT Pacific Pte Ltd",
-    location: "Suva, FJ",
-    description:
-      "I worked as a full-stack developer crafting web applications using C#, .Net Framework, MVC, Web API, SQL Server and Backbone.js hosted on AWS cloud.",
-    icon: React.createElement(SiDotnet),
-    date: "04/2020 - 06/2021",
   },
   {
     title: "Software Developer",
