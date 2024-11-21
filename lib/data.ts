@@ -55,7 +55,7 @@ export const experiencesData = [
     date: "08/2021 - present",
   },
   {
-    title: "Systems Analyst Programmer",
+    title: "Analyst Programmer",
     company: "Ministry of Lands",
     location: "Suva, FJ",
     description:
@@ -64,7 +64,7 @@ export const experiencesData = [
     date: "07/2021 - 08/2021",
   },
   {
-    title: "Assistant Programmer/ IT Team Lead",
+    title: "Analyst Programmer/ IT Team Lead",
     company: "Ministry of Agriculture",
     location: "Suva, FJ",
     description:
