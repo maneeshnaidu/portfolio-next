@@ -70,16 +70,7 @@ export const experiencesData = [
     description:
       "I worked as a full-stack developer crafting web applications using C#, .Net core, MVC, Web API, SQL Server and ReactJS.",
     icon: React.createElement(SiDotnet),
-    date: "04/2020 - 06/2021",
-  },
-  {
-    title: "Software Developer",
-    company: "SAAS (Fiji) Ltd",
-    location: "Suva, FJ",
-    description:
-      "I worked as a full-stack developer crafting web applications using C#, .Net core, MVC, Web API, SQL Server and ReactJS hosted on AWS cloud.",
-    icon: React.createElement(SiDotnet),
-    date: "01/2020 - 03/2020",
+    date: "01/2020 - 06/2021",
   },
   {
     title: "Software Developer",
