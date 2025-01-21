@@ -41,8 +41,8 @@ export const experiencesData = [
     company: "Thomax Technology NZ Ltd",
     location: "Auckland, NZ",
     description:
-      "Developed and implement technical specifications including setting up, configuration, testing and deployment of WMS. Understand functional specifications and contribute to project documentation such as Solutions Design, Standard Operating Procedures, test cases.",
-    icon: React.createElement(SiSap),
+      "Developed and implement technical specifications including setting up, configuration, testing and deployment of WMS and integrations. Understand functional specifications and contribute to project documentation such as Solutions Design, Standard Operating Procedures, test cases.",
+    icon: React.createElement(SiDotnet),
     date: "03/2024 - 10/2024",
   },
   {
