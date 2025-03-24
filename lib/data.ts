@@ -37,6 +37,15 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Application Support Analyst",
+    company: "Thames-Coromandel District Council",
+    location: "Auckland, NZ",
+    description:
+      "Assist and implement technical specifications including setting up, configuration, testing and deployment of various applications and integrations. Understand functional specifications and contribute to project documentation such as Solutions Design, Standard Operating Procedures, test cases.",
+    icon: React.createElement(CgWorkAlt),
+    date: "03/2024 - 10/2024",
+  },
+  {
     title: "Technical Consultant",
     company: "Thomax Technology NZ Ltd",
     location: "Auckland, NZ",
@@ -52,7 +61,7 @@ export const experiencesData = [
     description:
       "I worked as a SAP Full Stack Developer with expertise in S/4 HANA, SAPUI5, ABAP, Webdynpro, OData, BRF+, SAP BTP, and Node.js as a versatile professional who bridges the gap between user interfaces and server-side logic. I design, develop, and maintain fully-fledged SAP systems, ensuring seamless functionality and robust applications.",
     icon: React.createElement(SiSap),
-    date: "08/2021 - present",
+    date: "08/2021 - 03/2024",
   },
   {
     title: "Analyst Programmer",
@@ -115,9 +124,9 @@ export const projectsData = [
     title: "Finanseer",
     description:
       "I worked as a full-stack developer on this hobby project for 2 months. Users can search for publicly available financial data provided by https://site.financialmodelingprep.com, and add them to their portfolio.",
-    tags: ["React", "Typescript", ".NET 8", "Rest API", "PostgreSQL", "Azure"],
+    tags: ["React", "Typescript", ".NET 8", "Rest API", "PostgreSQL", "Render"],
     imageUrl: finanseerImg,
-    projectUrl: "https://finanseer-react-app.vercel.app/"
+    projectUrl: "https://github.com/maneeshnaidu/FinanseerReactApp"
   }
 ] as const;
 
