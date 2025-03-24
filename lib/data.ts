@@ -43,7 +43,7 @@ export const experiencesData = [
     description:
       "Assist and implement technical specifications including setting up, configuration, testing and deployment of various applications and integrations. Understand functional specifications and contribute to project documentation such as Solutions Design, Standard Operating Procedures, test cases.",
     icon: React.createElement(CgWorkAlt),
-    date: "03/2024 - 10/2024",
+    date: "01/2025 - Present",
   },
   {
     title: "Technical Consultant",
