@@ -5,8 +5,6 @@ import { LuGraduationCap } from "react-icons/lu";
 import { SiSap } from "react-icons/si";
 import { SiDotnet } from "react-icons/si";
 import finanseerImg from "@/public/finanseer.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
   {

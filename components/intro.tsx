@@ -15,7 +15,8 @@ export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
   const currentYear: number = new Date().getFullYear();
-  const yearsOfExperience = ( currentYear - 2018 );
+  const currentMonth: number = new Date().getMonth() + 1;
+  const yearsOfExperience = currentYear - 2019 + (currentMonth > 6 ? 1 : 0);
 
   return (
     <section
